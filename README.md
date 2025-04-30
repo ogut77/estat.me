@@ -32,3 +32,21 @@ https://github.com/ogut77/estat.me/blob/main/Chapter7_3_1_R.ipynb
 
 https://github.com/ogut77/estat.me/blob/main/Chapter7_4_3_Python.ipynb
 
+https://github.com/ogut77/estat.me/blob/main/Chapter7_5_3_Python.ipynb
+
+https://github.com/ogut77/estat.me/blob/main/Chapter7_5_3_R.ipynb
+
+https://github.com/ogut77/estat.me/blob/main/Chapter7_6_2_Python.ipynb
+
+https://github.com/ogut77/estat.me/blob/main/Chapter7_6_2_R.ipynb
+
+https://github.com/ogut77/estat.me/blob/main/Chapter7_6_4_Python.ipynb
+
+https://github.com/ogut77/estat.me/blob/main/Chapter7_6_4_R.ipynb
+
+https://github.com/ogut77/estat.me/blob/main/Chapter7_6_6_Python.ipynb
+
+https://github.com/ogut77/estat.me/blob/main/Chapter7_6_6_R.ipynb
+
+
+
