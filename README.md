@@ -1,3 +1,5 @@
+https://github.com/ogut77/estat.me/blob/main/PythonBasics.ipynb
+
 https://github.com/ogut77/estat.me/blob/main/Chapter2_3_Python.ipynb
 
 https://github.com/ogut77/estat.me/blob/main/Chapter2_3_R.ipynb
@@ -48,6 +50,7 @@ https://github.com/ogut77/estat.me/blob/main/Chapter7_6_6_Python.ipynb
 
 https://github.com/ogut77/estat.me/blob/main/Chapter7_6_6_R.ipynb
 
+https://colab.research.google.com/github/ogut77/estat.me/blob/main/PythonBasics.ipynb
 
 https://colab.research.google.com/github/ogut77/estat.me/blob/main/Chapter2_3_Python.ipynb
 
